@@ -1,0 +1,6922 @@
+clear
+clc
+diary homework1
+a
+{Undefined function or variable 'a'.
+} 
+A
+
+A =
+
+    10    -3     4     2
+
+A = [10 -3; 4 2]
+
+A =
+
+    10    -3
+     4     2
+
+clear
+clc
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w
+
+vTw =
+
+     3
+
+clc
+clear
+diary Homework 1
+{Error using <a href="matlab:helpUtils.errorDocCallback('diary')" style="font-weight:bold">diary</a>
+Too many input arguments.
+} 
+clear
+clc
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w
+
+vTw =
+
+     3
+
+
+
+
+
+a
+{Undefined function or variable 'a'.
+} 
+A
+
+A =
+
+    10    -3
+     4     2
+
+diary stop
+clear
+clc
+diary Homwork 1
+{Error using <a href="matlab:helpUtils.errorDocCallback('diary')" style="font-weight:bold">diary</a>
+Too many input arguments.
+} 
+diary Homwork1
+clear
+clc
+diary
+clear
+clc
+diary Homework1
+clear
+clc
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w % Solution to Problem 1 Part a)
+
+vTw =
+
+     3
+
+
+vTw =
+ vTw =
+     |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+clear
+clc
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w % Solution to Problem 1 Part a)
+
+vTw =
+
+     3
+
+
+%b) vw'
+wT = w'; % wT is the transpose of matrice w
+vwT = v * wT % Solution to Problem 1 Part b)
+
+vwT =
+
+     1     1
+     2     2
+
+
+
+
+% c) Av
+Av = A*v % Av is the product of A and v Solution to problem 1 Part c
+
+Av =
+
+     4
+     8
+
+
+
+% d) A'v
+AT = A'; % AT is the transpose of A
+ATv = AT * v % ATv is the the product of A' and v Solution to part d
+
+ATv =
+
+    18
+     1
+
+
+% e) A*B
+AB = A * B % AB is the product of A and B matrice, Solution to part e
+
+AB =
+
+    13    -6
+     2     4
+
+
+
+% f) B*A
+BA = B * A % AB is the product of A and B matrice, Solution to part f
+
+BA =
+
+    10    -3
+    -2     7
+
+
+
+
+% g) A^2
+AA = A * A % AA is the A^2, Solution to part g
+
+AA =
+
+    88   -36
+    48    -8
+
+
+
+
+% h) By = w
+
+y = B\w % y is the vector such that B*y = w, Solution to part h
+
+y =
+
+     1
+     1
+
+clc
+clear
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w % Solution to Problem 1 Part a)
+
+vTw =
+
+     3
+
+
+vTw =
+ vTw =
+     |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+clear
+clc
+% Solutions to the Problems in Computational Problem Solving in Civil Engineering Home Work 1
+% Problem 1
+%          Information provided is as follows
+A = [10 -3; 4 2];
+B = [1 0; -1 2];
+v = [1; 2];
+w = [1; 1];
+% a) v'w
+vT = v'; % vT is the transpose of marice v
+vTw=vT*w % Solution to Problem 1 Part a)
+
+vTw =
+
+     3
+
+
+vTw =
+ vTw =
+     |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+cleasr
+{Undefined function or variable 'cleasr'.
+} 
+clear
+clc
+uiopen('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\homework1 Problem 1',1)
+plot
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Not enough input arguments.
+} 
+helpUtils.errorDocCallback('plot')
+helpUtils.errorDocCallback('plot')
+fuction
+{Undefined function or variable 'fuction'.
+} 
+function
+ function
+|
+{Error: Function definitions are not permitted in this context.
+} 
+Problem1
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\Problem1.m',12,6)">File: Problem1.m Line: 12 Column: 6</a>
+Expression or statement is incomplete or incorrect.
+} 
+Problem1
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\Problem1.m',12,6)">File: Problem1.m Line: 12 Column: 6</a>
+Expression or statement is incomplete or incorrect.
+} 
+Problem1
+
+vTw =
+
+     3
+
+
+vwT =
+
+     1     1
+     2     2
+
+
+Av =
+
+     4
+     8
+
+
+ATv =
+
+    18
+     1
+
+
+AB =
+
+    13    -6
+     2     4
+
+
+BA =
+
+    10    -3
+    -2     7
+
+
+AA =
+
+    88   -36
+    48    -8
+
+
+y =
+
+     1
+     1
+
+Problem1
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\Problem1.m',15,10)">File: Problem1.m Line: 15 Column: 10</a>
+Unexpected MATLAB operator.
+} 
+Problem1
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\Problem1.m',15,10)">File: Problem1.m Line: 15 Column: 10</a>
+Unexpected MATLAB operator.
+} 
+Problem1
+
+y =
+
+     1
+     1
+
+Problem1
+
+vTw =
+
+     3
+
+
+vwT =
+
+     1     1
+     2     2
+
+
+Av =
+
+     4
+     8
+
+
+ATv =
+
+    18
+     1
+
+
+AB =
+
+    13    -6
+     2     4
+
+
+BA =
+
+    10    -3
+    -2     7
+
+
+AA =
+
+    88   -36
+    48    -8
+
+
+y =
+
+     1
+     1
+
+a = [0,2pi]
+ a = [0,2pi]
+        |
+{Error: Unexpected MATLAB expression.
+} 
+a = [0; 2*pi]
+
+a =
+
+         0
+    6.2832
+
+a = [0, 2*pi]
+
+a =
+
+         0    6.2832
+
+plot 
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Not enough input arguments.
+} 
+helpUtils.errorDocCallback('plot')
+plot (sine (k*x))
+{Undefined function or variable 'k'.
+} 
+sinekx
+plot p(1 pi)
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+x = 0:5
+
+x =
+
+     0     1     2     3     4     5
+
+y = 0:2pi
+ y = 0:2pi
+       |
+{Error: Unexpected MATLAB expression.
+} 
+y = 0:2*pi
+
+y =
+
+     0     1     2     3     4     5     6
+
+plot sin (x)
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+helpUtils.errorDocCallback('plot')
+z = sin (x*y)
+{Error using <a href="matlab:helpUtils.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+} 
+parachutistVel
+
+ans =
+
+   46.3580
+
+helpUtils.errorDocCallback('plot')
+z = sin (x*y)
+{Error using <a href="matlab:helpUtils.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+} 
+k=[1:5]
+
+k =
+
+     1     2     3     4     5
+
+x=[0:2*pi)
+ x=[0:2*pi)
+         |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+x=[0:2*pi]
+
+x =
+
+     0     1     2     3     4     5     6
+
+k = [1; : 5]
+ k = [1; : 5]
+        |
+{Error: Unexpected MATLAB operator.
+} 
+k = [1 : 5;]
+
+k =
+
+     1     2     3     4     5
+
+k = [1; 2 ; 3 ; 4 ; 5]
+
+k =
+
+     1
+     2
+     3
+     4
+     5
+
+sine = sin (k * x)
+
+sine =
+
+         0    0.8415    0.9093    0.1411   -0.7568   -0.9589   -0.2794
+         0    0.9093   -0.7568   -0.2794    0.9894   -0.5440   -0.5366
+         0    0.1411   -0.2794    0.4121   -0.5366    0.6503   -0.7510
+         0   -0.7568    0.9894   -0.5366   -0.2879    0.9129   -0.9056
+         0   -0.9589   -0.5440    0.6503    0.9129   -0.1324   -0.9880
+
+plot sine
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+plot (sine)
+x = [1 : 2*pi : .1]
+
+x =
+
+   Empty matrix: 1-by-0
+
+x = 2*[0: pi : .01]
+
+x =
+
+     0
+
+x = [0: 2*pi : .01]
+
+x =
+
+     0
+
+plot x
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+plot (sine)
+matrix
+{Undefined function or variable 'matrix'.
+} 
+x = 0: .1:2*pi
+
+x =
+
+  Columns 1 through 9
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000    0.8000
+
+  Columns 10 through 18
+
+    0.9000    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000
+
+  Columns 19 through 27
+
+    1.8000    1.9000    2.0000    2.1000    2.2000    2.3000    2.4000    2.5000    2.6000
+
+  Columns 28 through 36
+
+    2.7000    2.8000    2.9000    3.0000    3.1000    3.2000    3.3000    3.4000    3.5000
+
+  Columns 37 through 45
+
+    3.6000    3.7000    3.8000    3.9000    4.0000    4.1000    4.2000    4.3000    4.4000
+
+  Columns 46 through 54
+
+    4.5000    4.6000    4.7000    4.8000    4.9000    5.0000    5.1000    5.2000    5.3000
+
+  Columns 55 through 63
+
+    5.4000    5.5000    5.6000    5.7000    5.8000    5.9000    6.0000    6.1000    6.2000
+
+plot (sine)
+sine = 
+ sine = 
+       |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+sine 
+
+sine =
+
+         0    0.8415    0.9093    0.1411   -0.7568   -0.9589   -0.2794
+         0    0.9093   -0.7568   -0.2794    0.9894   -0.5440   -0.5366
+         0    0.1411   -0.2794    0.4121   -0.5366    0.6503   -0.7510
+         0   -0.7568    0.9894   -0.5366   -0.2879    0.9129   -0.9056
+         0   -0.9589   -0.5440    0.6503    0.9129   -0.1324   -0.9880
+
+sine = k*x
+
+sine =
+
+  Columns 1 through 9
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000    0.8000
+         0    0.2000    0.4000    0.6000    0.8000    1.0000    1.2000    1.4000    1.6000
+         0    0.3000    0.6000    0.9000    1.2000    1.5000    1.8000    2.1000    2.4000
+         0    0.4000    0.8000    1.2000    1.6000    2.0000    2.4000    2.8000    3.2000
+         0    0.5000    1.0000    1.5000    2.0000    2.5000    3.0000    3.5000    4.0000
+
+  Columns 10 through 18
+
+    0.9000    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000
+    1.8000    2.0000    2.2000    2.4000    2.6000    2.8000    3.0000    3.2000    3.4000
+    2.7000    3.0000    3.3000    3.6000    3.9000    4.2000    4.5000    4.8000    5.1000
+    3.6000    4.0000    4.4000    4.8000    5.2000    5.6000    6.0000    6.4000    6.8000
+    4.5000    5.0000    5.5000    6.0000    6.5000    7.0000    7.5000    8.0000    8.5000
+
+  Columns 19 through 27
+
+    1.8000    1.9000    2.0000    2.1000    2.2000    2.3000    2.4000    2.5000    2.6000
+    3.6000    3.8000    4.0000    4.2000    4.4000    4.6000    4.8000    5.0000    5.2000
+    5.4000    5.7000    6.0000    6.3000    6.6000    6.9000    7.2000    7.5000    7.8000
+    7.2000    7.6000    8.0000    8.4000    8.8000    9.2000    9.6000   10.0000   10.4000
+    9.0000    9.5000   10.0000   10.5000   11.0000   11.5000   12.0000   12.5000   13.0000
+
+  Columns 28 through 36
+
+    2.7000    2.8000    2.9000    3.0000    3.1000    3.2000    3.3000    3.4000    3.5000
+    5.4000    5.6000    5.8000    6.0000    6.2000    6.4000    6.6000    6.8000    7.0000
+    8.1000    8.4000    8.7000    9.0000    9.3000    9.6000    9.9000   10.2000   10.5000
+   10.8000   11.2000   11.6000   12.0000   12.4000   12.8000   13.2000   13.6000   14.0000
+   13.5000   14.0000   14.5000   15.0000   15.5000   16.0000   16.5000   17.0000   17.5000
+
+  Columns 37 through 45
+
+    3.6000    3.7000    3.8000    3.9000    4.0000    4.1000    4.2000    4.3000    4.4000
+    7.2000    7.4000    7.6000    7.8000    8.0000    8.2000    8.4000    8.6000    8.8000
+   10.8000   11.1000   11.4000   11.7000   12.0000   12.3000   12.6000   12.9000   13.2000
+   14.4000   14.8000   15.2000   15.6000   16.0000   16.4000   16.8000   17.2000   17.6000
+   18.0000   18.5000   19.0000   19.5000   20.0000   20.5000   21.0000   21.5000   22.0000
+
+  Columns 46 through 54
+
+    4.5000    4.6000    4.7000    4.8000    4.9000    5.0000    5.1000    5.2000    5.3000
+    9.0000    9.2000    9.4000    9.6000    9.8000   10.0000   10.2000   10.4000   10.6000
+   13.5000   13.8000   14.1000   14.4000   14.7000   15.0000   15.3000   15.6000   15.9000
+   18.0000   18.4000   18.8000   19.2000   19.6000   20.0000   20.4000   20.8000   21.2000
+   22.5000   23.0000   23.5000   24.0000   24.5000   25.0000   25.5000   26.0000   26.5000
+
+  Columns 55 through 63
+
+    5.4000    5.5000    5.6000    5.7000    5.8000    5.9000    6.0000    6.1000    6.2000
+   10.8000   11.0000   11.2000   11.4000   11.6000   11.8000   12.0000   12.2000   12.4000
+   16.2000   16.5000   16.8000   17.1000   17.4000   17.7000   18.0000   18.3000   18.6000
+   21.6000   22.0000   22.4000   22.8000   23.2000   23.6000   24.0000   24.4000   24.8000
+   27.0000   27.5000   28.0000   28.5000   29.0000   29.5000   30.0000   30.5000   31.0000
+
+plot (sine)
+x = 0: .1:2*pi
+
+x =
+
+  Columns 1 through 9
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000    0.8000
+
+  Columns 10 through 18
+
+    0.9000    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000
+
+  Columns 19 through 27
+
+    1.8000    1.9000    2.0000    2.1000    2.2000    2.3000    2.4000    2.5000    2.6000
+
+  Columns 28 through 36
+
+    2.7000    2.8000    2.9000    3.0000    3.1000    3.2000    3.3000    3.4000    3.5000
+
+  Columns 37 through 45
+
+    3.6000    3.7000    3.8000    3.9000    4.0000    4.1000    4.2000    4.3000    4.4000
+
+  Columns 46 through 54
+
+    4.5000    4.6000    4.7000    4.8000    4.9000    5.0000    5.1000    5.2000    5.3000
+
+  Columns 55 through 63
+
+    5.4000    5.5000    5.6000    5.7000    5.8000    5.9000    6.0000    6.1000    6.2000
+
+plot x
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+s = sin x
+ s = sin x
+        |
+{Error: Unexpected MATLAB expression.
+} 
+clear
+clc
+k = [1 ; 1:5]
+{Error using <a href="matlab:helpUtils.errorDocCallback('vertcat')" style="font-weight:bold">vertcat</a>
+CAT arguments dimensions are not consistent.
+} 
+helpUtils.errorDocCallback('vertcat')
+k = vertcat (1:1:5)
+
+k =
+
+     1     2     3     4     5
+
+k = vertcat (1;1:5)
+ k = vertcat (1;1:5)
+              |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+k = vertcat (1;1;5)
+ k = vertcat (1;1;5)
+              |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+clear
+clc
+k = [1;2;3;4;5]
+
+k =
+
+     1
+     2
+     3
+     4
+     5
+
+x = [0:2*pi:.1]
+
+x =
+
+     0
+
+x = [0:.1:2*pi]
+
+x =
+
+  Columns 1 through 9
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000    0.8000
+
+  Columns 10 through 18
+
+    0.9000    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000
+
+  Columns 19 through 27
+
+    1.8000    1.9000    2.0000    2.1000    2.2000    2.3000    2.4000    2.5000    2.6000
+
+  Columns 28 through 36
+
+    2.7000    2.8000    2.9000    3.0000    3.1000    3.2000    3.3000    3.4000    3.5000
+
+  Columns 37 through 45
+
+    3.6000    3.7000    3.8000    3.9000    4.0000    4.1000    4.2000    4.3000    4.4000
+
+  Columns 46 through 54
+
+    4.5000    4.6000    4.7000    4.8000    4.9000    5.0000    5.1000    5.2000    5.3000
+
+  Columns 55 through 63
+
+    5.4000    5.5000    5.6000    5.7000    5.8000    5.9000    6.0000    6.1000    6.2000
+
+sine = k*x;
+sine = sin(k*X)
+{Undefined function or variable 'X'.
+} 
+KX=k*x
+
+KX =
+
+  Columns 1 through 9
+
+         0    0.1000    0.2000    0.3000    0.4000    0.5000    0.6000    0.7000    0.8000
+         0    0.2000    0.4000    0.6000    0.8000    1.0000    1.2000    1.4000    1.6000
+         0    0.3000    0.6000    0.9000    1.2000    1.5000    1.8000    2.1000    2.4000
+         0    0.4000    0.8000    1.2000    1.6000    2.0000    2.4000    2.8000    3.2000
+         0    0.5000    1.0000    1.5000    2.0000    2.5000    3.0000    3.5000    4.0000
+
+  Columns 10 through 18
+
+    0.9000    1.0000    1.1000    1.2000    1.3000    1.4000    1.5000    1.6000    1.7000
+    1.8000    2.0000    2.2000    2.4000    2.6000    2.8000    3.0000    3.2000    3.4000
+    2.7000    3.0000    3.3000    3.6000    3.9000    4.2000    4.5000    4.8000    5.1000
+    3.6000    4.0000    4.4000    4.8000    5.2000    5.6000    6.0000    6.4000    6.8000
+    4.5000    5.0000    5.5000    6.0000    6.5000    7.0000    7.5000    8.0000    8.5000
+
+  Columns 19 through 27
+
+    1.8000    1.9000    2.0000    2.1000    2.2000    2.3000    2.4000    2.5000    2.6000
+    3.6000    3.8000    4.0000    4.2000    4.4000    4.6000    4.8000    5.0000    5.2000
+    5.4000    5.7000    6.0000    6.3000    6.6000    6.9000    7.2000    7.5000    7.8000
+    7.2000    7.6000    8.0000    8.4000    8.8000    9.2000    9.6000   10.0000   10.4000
+    9.0000    9.5000   10.0000   10.5000   11.0000   11.5000   12.0000   12.5000   13.0000
+
+  Columns 28 through 36
+
+    2.7000    2.8000    2.9000    3.0000    3.1000    3.2000    3.3000    3.4000    3.5000
+    5.4000    5.6000    5.8000    6.0000    6.2000    6.4000    6.6000    6.8000    7.0000
+    8.1000    8.4000    8.7000    9.0000    9.3000    9.6000    9.9000   10.2000   10.5000
+   10.8000   11.2000   11.6000   12.0000   12.4000   12.8000   13.2000   13.6000   14.0000
+   13.5000   14.0000   14.5000   15.0000   15.5000   16.0000   16.5000   17.0000   17.5000
+
+  Columns 37 through 45
+
+    3.6000    3.7000    3.8000    3.9000    4.0000    4.1000    4.2000    4.3000    4.4000
+    7.2000    7.4000    7.6000    7.8000    8.0000    8.2000    8.4000    8.6000    8.8000
+   10.8000   11.1000   11.4000   11.7000   12.0000   12.3000   12.6000   12.9000   13.2000
+   14.4000   14.8000   15.2000   15.6000   16.0000   16.4000   16.8000   17.2000   17.6000
+   18.0000   18.5000   19.0000   19.5000   20.0000   20.5000   21.0000   21.5000   22.0000
+
+  Columns 46 through 54
+
+    4.5000    4.6000    4.7000    4.8000    4.9000    5.0000    5.1000    5.2000    5.3000
+    9.0000    9.2000    9.4000    9.6000    9.8000   10.0000   10.2000   10.4000   10.6000
+   13.5000   13.8000   14.1000   14.4000   14.7000   15.0000   15.3000   15.6000   15.9000
+   18.0000   18.4000   18.8000   19.2000   19.6000   20.0000   20.4000   20.8000   21.2000
+   22.5000   23.0000   23.5000   24.0000   24.5000   25.0000   25.5000   26.0000   26.5000
+
+  Columns 55 through 63
+
+    5.4000    5.5000    5.6000    5.7000    5.8000    5.9000    6.0000    6.1000    6.2000
+   10.8000   11.0000   11.2000   11.4000   11.6000   11.8000   12.0000   12.2000   12.4000
+   16.2000   16.5000   16.8000   17.1000   17.4000   17.7000   18.0000   18.3000   18.6000
+   21.6000   22.0000   22.4000   22.8000   23.2000   23.6000   24.0000   24.4000   24.8000
+   27.0000   27.5000   28.0000   28.5000   29.0000   29.5000   30.0000   30.5000   31.0000
+
+sine = sin (KX);
+plote (sine)
+{Undefined function 'plote' for input arguments of type 'double'.
+} 
+plot (sine)
+plot k
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid first data argument
+} 
+plot (k, x)
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same lengths.
+} 
+plot (k, k)
+plot (sine)
+clear
+clc
+x = [0:.01:2*pi]
+
+x =
+
+  Columns 1 through 9
+
+         0    0.0100    0.0200    0.0300    0.0400    0.0500    0.0600    0.0700    0.0800
+
+  Columns 10 through 18
+
+    0.0900    0.1000    0.1100    0.1200    0.1300    0.1400    0.1500    0.1600    0.1700
+
+  Columns 19 through 27
+
+    0.1800    0.1900    0.2000    0.2100    0.2200    0.2300    0.2400    0.2500    0.2600
+
+  Columns 28 through 36
+
+    0.2700    0.2800    0.2900    0.3000    0.3100    0.3200    0.3300    0.3400    0.3500
+
+  Columns 37 through 45
+
+    0.3600    0.3700    0.3800    0.3900    0.4000    0.4100    0.4200    0.4300    0.4400
+
+  Columns 46 through 54
+
+    0.4500    0.4600    0.4700    0.4800    0.4900    0.5000    0.5100    0.5200    0.5300
+
+  Columns 55 through 63
+
+    0.5400    0.5500    0.5600    0.5700    0.5800    0.5900    0.6000    0.6100    0.6200
+
+  Columns 64 through 72
+
+    0.6300    0.6400    0.6500    0.6600    0.6700    0.6800    0.6900    0.7000    0.7100
+
+  Columns 73 through 81
+
+    0.7200    0.7300    0.7400    0.7500    0.7600    0.7700    0.7800    0.7900    0.8000
+
+  Columns 82 through 90
+
+    0.8100    0.8200    0.8300    0.8400    0.8500    0.8600    0.8700    0.8800    0.8900
+
+  Columns 91 through 99
+
+    0.9000    0.9100    0.9200    0.9300    0.9400    0.9500    0.9600    0.9700    0.9800
+
+  Columns 100 through 108
+
+    0.9900    1.0000    1.0100    1.0200    1.0300    1.0400    1.0500    1.0600    1.0700
+
+  Columns 109 through 117
+
+    1.0800    1.0900    1.1000    1.1100    1.1200    1.1300    1.1400    1.1500    1.1600
+
+  Columns 118 through 126
+
+    1.1700    1.1800    1.1900    1.2000    1.2100    1.2200    1.2300    1.2400    1.2500
+
+  Columns 127 through 135
+
+    1.2600    1.2700    1.2800    1.2900    1.3000    1.3100    1.3200    1.3300    1.3400
+
+  Columns 136 through 144
+
+    1.3500    1.3600    1.3700    1.3800    1.3900    1.4000    1.4100    1.4200    1.4300
+
+  Columns 145 through 153
+
+    1.4400    1.4500    1.4600    1.4700    1.4800    1.4900    1.5000    1.5100    1.5200
+
+  Columns 154 through 162
+
+    1.5300    1.5400    1.5500    1.5600    1.5700    1.5800    1.5900    1.6000    1.6100
+
+  Columns 163 through 171
+
+    1.6200    1.6300    1.6400    1.6500    1.6600    1.6700    1.6800    1.6900    1.7000
+
+  Columns 172 through 180
+
+    1.7100    1.7200    1.7300    1.7400    1.7500    1.7600    1.7700    1.7800    1.7900
+
+  Columns 181 through 189
+
+    1.8000    1.8100    1.8200    1.8300    1.8400    1.8500    1.8600    1.8700    1.8800
+
+  Columns 190 through 198
+
+    1.8900    1.9000    1.9100    1.9200    1.9300    1.9400    1.9500    1.9600    1.9700
+
+  Columns 199 through 207
+
+    1.9800    1.9900    2.0000    2.0100    2.0200    2.0300    2.0400    2.0500    2.0600
+
+  Columns 208 through 216
+
+    2.0700    2.0800    2.0900    2.1000    2.1100    2.1200    2.1300    2.1400    2.1500
+
+  Columns 217 through 225
+
+    2.1600    2.1700    2.1800    2.1900    2.2000    2.2100    2.2200    2.2300    2.2400
+
+  Columns 226 through 234
+
+    2.2500    2.2600    2.2700    2.2800    2.2900    2.3000    2.3100    2.3200    2.3300
+
+  Columns 235 through 243
+
+    2.3400    2.3500    2.3600    2.3700    2.3800    2.3900    2.4000    2.4100    2.4200
+
+  Columns 244 through 252
+
+    2.4300    2.4400    2.4500    2.4600    2.4700    2.4800    2.4900    2.5000    2.5100
+
+  Columns 253 through 261
+
+    2.5200    2.5300    2.5400    2.5500    2.5600    2.5700    2.5800    2.5900    2.6000
+
+  Columns 262 through 270
+
+    2.6100    2.6200    2.6300    2.6400    2.6500    2.6600    2.6700    2.6800    2.6900
+
+  Columns 271 through 279
+
+    2.7000    2.7100    2.7200    2.7300    2.7400    2.7500    2.7600    2.7700    2.7800
+
+  Columns 280 through 288
+
+    2.7900    2.8000    2.8100    2.8200    2.8300    2.8400    2.8500    2.8600    2.8700
+
+  Columns 289 through 297
+
+    2.8800    2.8900    2.9000    2.9100    2.9200    2.9300    2.9400    2.9500    2.9600
+
+  Columns 298 through 306
+
+    2.9700    2.9800    2.9900    3.0000    3.0100    3.0200    3.0300    3.0400    3.0500
+
+  Columns 307 through 315
+
+    3.0600    3.0700    3.0800    3.0900    3.1000    3.1100    3.1200    3.1300    3.1400
+
+  Columns 316 through 324
+
+    3.1500    3.1600    3.1700    3.1800    3.1900    3.2000    3.2100    3.2200    3.2300
+
+  Columns 325 through 333
+
+    3.2400    3.2500    3.2600    3.2700    3.2800    3.2900    3.3000    3.3100    3.3200
+
+  Columns 334 through 342
+
+    3.3300    3.3400    3.3500    3.3600    3.3700    3.3800    3.3900    3.4000    3.4100
+
+  Columns 343 through 351
+
+    3.4200    3.4300    3.4400    3.4500    3.4600    3.4700    3.4800    3.4900    3.5000
+
+  Columns 352 through 360
+
+    3.5100    3.5200    3.5300    3.5400    3.5500    3.5600    3.5700    3.5800    3.5900
+
+  Columns 361 through 369
+
+    3.6000    3.6100    3.6200    3.6300    3.6400    3.6500    3.6600    3.6700    3.6800
+
+  Columns 370 through 378
+
+    3.6900    3.7000    3.7100    3.7200    3.7300    3.7400    3.7500    3.7600    3.7700
+
+  Columns 379 through 387
+
+    3.7800    3.7900    3.8000    3.8100    3.8200    3.8300    3.8400    3.8500    3.8600
+
+  Columns 388 through 396
+
+    3.8700    3.8800    3.8900    3.9000    3.9100    3.9200    3.9300    3.9400    3.9500
+
+  Columns 397 through 405
+
+    3.9600    3.9700    3.9800    3.9900    4.0000    4.0100    4.0200    4.0300    4.0400
+
+  Columns 406 through 414
+
+    4.0500    4.0600    4.0700    4.0800    4.0900    4.1000    4.1100    4.1200    4.1300
+
+  Columns 415 through 423
+
+    4.1400    4.1500    4.1600    4.1700    4.1800    4.1900    4.2000    4.2100    4.2200
+
+  Columns 424 through 432
+
+    4.2300    4.2400    4.2500    4.2600    4.2700    4.2800    4.2900    4.3000    4.3100
+
+  Columns 433 through 441
+
+    4.3200    4.3300    4.3400    4.3500    4.3600    4.3700    4.3800    4.3900    4.4000
+
+  Columns 442 through 450
+
+    4.4100    4.4200    4.4300    4.4400    4.4500    4.4600    4.4700    4.4800    4.4900
+
+  Columns 451 through 459
+
+    4.5000    4.5100    4.5200    4.5300    4.5400    4.5500    4.5600    4.5700    4.5800
+
+  Columns 460 through 468
+
+    4.5900    4.6000    4.6100    4.6200    4.6300    4.6400    4.6500    4.6600    4.6700
+
+  Columns 469 through 477
+
+    4.6800    4.6900    4.7000    4.7100    4.7200    4.7300    4.7400    4.7500    4.7600
+
+  Columns 478 through 486
+
+    4.7700    4.7800    4.7900    4.8000    4.8100    4.8200    4.8300    4.8400    4.8500
+
+  Columns 487 through 495
+
+    4.8600    4.8700    4.8800    4.8900    4.9000    4.9100    4.9200    4.9300    4.9400
+
+  Columns 496 through 504
+
+    4.9500    4.9600    4.9700    4.9800    4.9900    5.0000    5.0100    5.0200    5.0300
+
+  Columns 505 through 513
+
+    5.0400    5.0500    5.0600    5.0700    5.0800    5.0900    5.1000    5.1100    5.1200
+
+  Columns 514 through 522
+
+    5.1300    5.1400    5.1500    5.1600    5.1700    5.1800    5.1900    5.2000    5.2100
+
+  Columns 523 through 531
+
+    5.2200    5.2300    5.2400    5.2500    5.2600    5.2700    5.2800    5.2900    5.3000
+
+  Columns 532 through 540
+
+    5.3100    5.3200    5.3300    5.3400    5.3500    5.3600    5.3700    5.3800    5.3900
+
+  Columns 541 through 549
+
+    5.4000    5.4100    5.4200    5.4300    5.4400    5.4500    5.4600    5.4700    5.4800
+
+  Columns 550 through 558
+
+    5.4900    5.5000    5.5100    5.5200    5.5300    5.5400    5.5500    5.5600    5.5700
+
+  Columns 559 through 567
+
+    5.5800    5.5900    5.6000    5.6100    5.6200    5.6300    5.6400    5.6500    5.6600
+
+  Columns 568 through 576
+
+    5.6700    5.6800    5.6900    5.7000    5.7100    5.7200    5.7300    5.7400    5.7500
+
+  Columns 577 through 585
+
+    5.7600    5.7700    5.7800    5.7900    5.8000    5.8100    5.8200    5.8300    5.8400
+
+  Columns 586 through 594
+
+    5.8500    5.8600    5.8700    5.8800    5.8900    5.9000    5.9100    5.9200    5.9300
+
+  Columns 595 through 603
+
+    5.9400    5.9500    5.9600    5.9700    5.9800    5.9900    6.0000    6.0100    6.0200
+
+  Columns 604 through 612
+
+    6.0300    6.0400    6.0500    6.0600    6.0700    6.0800    6.0900    6.1000    6.1100
+
+  Columns 613 through 621
+
+    6.1200    6.1300    6.1400    6.1500    6.1600    6.1700    6.1800    6.1900    6.2000
+
+  Columns 622 through 629
+
+    6.2100    6.2200    6.2300    6.2400    6.2500    6.2600    6.2700    6.2800
+
+k = [1;2;3;4;5]
+
+k =
+
+     1
+     2
+     3
+     4
+     5
+
+KX= k*x;
+sine = sin KX;
+ sine = sin KX;
+           |
+{Error: Unexpected MATLAB expression.
+} 
+sine = sin (KX);
+plote sine
+{Undefined function 'plote' for input arguments of type 'char'.
+} 
+plote (sine)
+{Undefined function 'plote' for input arguments of type 'double'.
+} 
+plot (sine)
+x = -pi:.1:pi
+
+x =
+
+  Columns 1 through 9
+
+   -3.1416   -3.0416   -2.9416   -2.8416   -2.7416   -2.6416   -2.5416   -2.4416   -2.3416
+
+  Columns 10 through 18
+
+   -2.2416   -2.1416   -2.0416   -1.9416   -1.8416   -1.7416   -1.6416   -1.5416   -1.4416
+
+  Columns 19 through 27
+
+   -1.3416   -1.2416   -1.1416   -1.0416   -0.9416   -0.8416   -0.7416   -0.6416   -0.5416
+
+  Columns 28 through 36
+
+   -0.4416   -0.3416   -0.2416   -0.1416   -0.0416    0.0584    0.1584    0.2584    0.3584
+
+  Columns 37 through 45
+
+    0.4584    0.5584    0.6584    0.7584    0.8584    0.9584    1.0584    1.1584    1.2584
+
+  Columns 46 through 54
+
+    1.3584    1.4584    1.5584    1.6584    1.7584    1.8584    1.9584    2.0584    2.1584
+
+  Columns 55 through 63
+
+    2.2584    2.3584    2.4584    2.5584    2.6584    2.7584    2.8584    2.9584    3.0584
+
+x = -pi:.1:pi;
+x = [-pi:.1:pi];
+x = [-pi:.1:pi]
+
+x =
+
+  Columns 1 through 9
+
+   -3.1416   -3.0416   -2.9416   -2.8416   -2.7416   -2.6416   -2.5416   -2.4416   -2.3416
+
+  Columns 10 through 18
+
+   -2.2416   -2.1416   -2.0416   -1.9416   -1.8416   -1.7416   -1.6416   -1.5416   -1.4416
+
+  Columns 19 through 27
+
+   -1.3416   -1.2416   -1.1416   -1.0416   -0.9416   -0.8416   -0.7416   -0.6416   -0.5416
+
+  Columns 28 through 36
+
+   -0.4416   -0.3416   -0.2416   -0.1416   -0.0416    0.0584    0.1584    0.2584    0.3584
+
+  Columns 37 through 45
+
+    0.4584    0.5584    0.6584    0.7584    0.8584    0.9584    1.0584    1.1584    1.2584
+
+  Columns 46 through 54
+
+    1.3584    1.4584    1.5584    1.6584    1.7584    1.8584    1.9584    2.0584    2.1584
+
+  Columns 55 through 63
+
+    2.2584    2.3584    2.4584    2.5584    2.6584    2.7584    2.8584    2.9584    3.0584
+
+y = sin (x);
+plot (x,y)
+clear
+clc
+k = [1;2;3;4;5]
+
+k =
+
+     1
+     2
+     3
+     4
+     5
+
+x = 0:.1:2*pi;
+sine = sin(k*x)
+
+sine =
+
+  Columns 1 through 9
+
+         0    0.0998    0.1987    0.2955    0.3894    0.4794    0.5646    0.6442    0.7174
+         0    0.1987    0.3894    0.5646    0.7174    0.8415    0.9320    0.9854    0.9996
+         0    0.2955    0.5646    0.7833    0.9320    0.9975    0.9738    0.8632    0.6755
+         0    0.3894    0.7174    0.9320    0.9996    0.9093    0.6755    0.3350   -0.0584
+         0    0.4794    0.8415    0.9975    0.9093    0.5985    0.1411   -0.3508   -0.7568
+
+  Columns 10 through 18
+
+    0.7833    0.8415    0.8912    0.9320    0.9636    0.9854    0.9975    0.9996    0.9917
+    0.9738    0.9093    0.8085    0.6755    0.5155    0.3350    0.1411   -0.0584   -0.2555
+    0.4274    0.1411   -0.1577   -0.4425   -0.6878   -0.8716   -0.9775   -0.9962   -0.9258
+   -0.4425   -0.7568   -0.9516   -0.9962   -0.8835   -0.6313   -0.2794    0.1165    0.4941
+   -0.9775   -0.9589   -0.7055   -0.2794    0.2151    0.6570    0.9380    0.9894    0.7985
+
+  Columns 19 through 27
+
+    0.9738    0.9463    0.9093    0.8632    0.8085    0.7457    0.6755    0.5985    0.5155
+   -0.4425   -0.6119   -0.7568   -0.8716   -0.9516   -0.9937   -0.9962   -0.9589   -0.8835
+   -0.7728   -0.5507   -0.2794    0.0168    0.3115    0.5784    0.7937    0.9380    0.9985
+    0.7937    0.9679    0.9894    0.8546    0.5849    0.2229   -0.1743   -0.5440   -0.8278
+    0.4121   -0.0752   -0.5440   -0.8797   -1.0000   -0.8755   -0.5366   -0.0663    0.4202
+
+  Columns 28 through 36
+
+    0.4274    0.3350    0.2392    0.1411    0.0416   -0.0584   -0.1577   -0.2555   -0.3508
+   -0.7728   -0.6313   -0.4646   -0.2794   -0.0831    0.1165    0.3115    0.4941    0.6570
+    0.9699    0.8546    0.6630    0.4121    0.1245   -0.1743   -0.4575   -0.6999   -0.8797
+   -0.9809   -0.9792   -0.8228   -0.5366   -0.1656    0.2315    0.5921    0.8592    0.9906
+    0.8038    0.9906    0.9349    0.6503    0.2065   -0.2879   -0.7118   -0.9614   -0.9756
+
+  Columns 37 through 45
+
+   -0.4425   -0.5298   -0.6119   -0.6878   -0.7568   -0.8183   -0.8716   -0.9162   -0.9516
+    0.7937    0.8987    0.9679    0.9985    0.9894    0.9407    0.8546    0.7344    0.5849
+   -0.9809   -0.9946   -0.9193   -0.7620   -0.5366   -0.2632    0.0336    0.3275    0.5921
+    0.9657    0.7883    0.4864    0.1078   -0.2879   -0.6381   -0.8876   -0.9969   -0.9488
+   -0.7510   -0.3425    0.1499    0.6055    0.9129    0.9968    0.8367    0.4716   -0.0089
+
+  Columns 46 through 54
+
+   -0.9775   -0.9937   -0.9999   -0.9962   -0.9825   -0.9589   -0.9258   -0.8835   -0.8323
+    0.4121    0.2229    0.0248   -0.1743   -0.3665   -0.5440   -0.6999   -0.8278   -0.9228
+    0.8038    0.9437    0.9993    0.9657    0.8457    0.6503    0.3967    0.1078   -0.1909
+   -0.7510   -0.4346   -0.0495    0.3433    0.6820    0.9129    0.9998    0.9288    0.7112
+   -0.4872   -0.8462   -0.9981   -0.9056   -0.5914   -0.1324    0.3591    0.7626    0.9794
+
+  Columns 55 through 63
+
+   -0.7728   -0.7055   -0.6313   -0.5507   -0.4646   -0.3739   -0.2794   -0.1822   -0.0831
+   -0.9809   -1.0000   -0.9792   -0.9193   -0.8228   -0.6935   -0.5366   -0.3582   -0.1656
+   -0.4724   -0.7118   -0.8876   -0.9841   -0.9927   -0.9126   -0.7510   -0.5223   -0.2470
+    0.3813   -0.0089   -0.3976   -0.7235   -0.9352   -0.9993   -0.9056   -0.6689   -0.3266
+    0.9564    0.6992    0.2709   -0.2238   -0.6636   -0.9410   -0.9880   -0.7931   -0.4040
+
+plot (x,sine)
+clear
+clc
+sinekx
+plot (x,y)
+{Undefined function or variable 'x'.
+} 
+x = 0:2*pi;
+k = [1;2;3;4;5]
+
+k =
+
+     1
+     2
+     3
+     4
+     5
+
+sine = sin(k*x)
+
+sine =
+
+         0    0.8415    0.9093    0.1411   -0.7568   -0.9589   -0.2794
+         0    0.9093   -0.7568   -0.2794    0.9894   -0.5440   -0.5366
+         0    0.1411   -0.2794    0.4121   -0.5366    0.6503   -0.7510
+         0   -0.7568    0.9894   -0.5366   -0.2879    0.9129   -0.9056
+         0   -0.9589   -0.5440    0.6503    0.9129   -0.1324   -0.9880
+
+plot (x, sine)
+clear
+x = 0:2*pi;
+k = [1;2;3;4;5];
+sine = sin(k*x);
+clear
+x = 0:.1:2*pi;
+k = [1;2;3;4;5];
+sine = sin(k*x);
+plot (k*x, sine)
+plot (k*x, sine)
+plot (sine, k*x)
+plot (k*x, sine)
+plot (x, sine)
+sinekx
+sinekx
+cosec x
+{Undefined function 'cosec' for input arguments of type 'char'.
+} 
+cos^-1(x)
+ cos^-1(x)
+      |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+cos^(-1)(x)
+ cos^(-1)(x)
+        |
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+cos^(-1)x
+ cos^(-1)x
+        |
+{Error: Unexpected MATLAB expression.
+} 
+uiopen('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem1.m',1)
+Problem1
+
+vTw =
+
+     3
+
+
+vwT =
+
+     1     1
+     2     2
+
+
+Av =
+
+     4
+     8
+
+
+ATv =
+
+    18
+     1
+
+
+AB =
+
+    13    -6
+     2     4
+
+
+BA =
+
+    10    -3
+    -2     7
+
+
+AA =
+
+    88   -36
+    48    -8
+
+
+y =
+
+     1
+     1
+
+Problem1
+
+vTw =
+
+     3
+
+
+vwT =
+
+     1     1
+     2     2
+
+
+Av =
+
+     4
+     8
+
+
+ATv =
+
+    18
+     1
+
+
+AB =
+
+    13    -6
+     2     4
+
+
+BA =
+
+    10    -3
+    -2     7
+
+
+AA =
+
+    88   -36
+    48    -8
+
+
+y =
+
+     1
+     1
+
+clear
+clc
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',15,1)">File: Problem3.m Line: 15 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function "Volume".)
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',15,1)">File: Problem3.m Line: 15 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function "Volume".)
+} 
+parachutistNUM 
+{Undefined function or variable 'parachutistNUM'.
+} 
+clear
+clc
+x = [0:1:pi]
+
+x =
+
+     0     1     2     3
+
+sec (x)
+
+ans =
+
+    1.0000    1.8508   -2.4030   -1.0101
+
+cos (x)
+
+ans =
+
+    1.0000    0.5403   -0.4161   -0.9900
+
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,32)">File: Problem3.m Line: 9 Column: 32</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,32)">File: Problem3.m Line: 9 Column: 32</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,36)">File: Problem3.m Line: 9 Column: 36</a>
+Unexpected MATLAB expression.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,51)">File: Problem3.m Line: 9 Column: 51</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,53)">File: Problem3.m Line: 9 Column: 53</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,52)">File: Problem3.m Line: 9 Column: 52</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,51)">File: Problem3.m Line: 9 Column: 51</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,51)">File: Problem3.m Line: 9 Column: 51</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+volume (2,5,10)
+{Undefined function 'volume' for input arguments of type 'double'.
+} 
+Problem3 (2,5,10)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,51)">File: Problem3.m Line: 9 Column: 51</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,53)">File: Problem3.m Line: 9 Column: 53</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,53)">File: Problem3.m Line: 9 Column: 53</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,57)">File: Problem3.m Line: 9 Column: 57</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,59)">File: Problem3.m Line: 9 Column: 59</a>
+Expression or statement is incorrect--possibly unbalanced
+(, {, or [.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,58)">File: Problem3.m Line: 9 Column: 58</a>
+Expression or statement is incorrect--possibly unbalanced
+(, {, or [.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,60)">File: Problem3.m Line: 9 Column: 60</a>
+Expression or statement is incorrect--possibly unbalanced
+(, {, or [.
+} 
+for
+ for
+   |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+clear
+for i=1:
+ for i=1:
+        |
+{Error: Expression or statement is incomplete or incorrect.
+} 
+plot (x)
+{Undefined function or variable 'x'.
+} 
+plot (1,1)
+plot (1)
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,60)">File: Problem3.m Line: 9 Column: 60</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',9,63)">File: Problem3.m Line: 9 Column: 63</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+r = 2
+
+r =
+
+     2
+
+L = 5
+
+L =
+
+     5
+
+h = 6
+
+h =
+
+     6
+
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+                                                       |
+{Error: Expression or statement is incorrect--possibly
+unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L)
+
+V =
+
+  -9.6120 +69.2820i
+
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L)
+
+V =
+
+  -9.6120 +69.2820i
+
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))
+                                                     |
+{Error: Expression or statement is incorrect--possibly unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))
+                                                    |
+{Error: Expression or statement is incorrect--possibly unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))
+                                                     |
+{Error: Expression or statement is incorrect--possibly unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))
+
+V =
+
+  -9.6120 +13.8564i
+
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))
+
+V =
+
+  -9.6120 +13.8564i
+
+clear
+clc
+r
+{Undefined function or variable 'r'.
+} 
+r=2
+
+r =
+
+     2
+
+l=5
+
+l =
+
+     5
+
+L=5
+
+L =
+
+     5
+
+h = 1
+
+h =
+
+     1
+
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+                                                       |
+{Error: Expression or statement is incorrect--possibly
+unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2)))*L
+                                                       |
+{Error: Expression or statement is incorrect--possibly
+unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))*L
+ V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))*L
+                                                      |
+{Error: Expression or statement is incorrect--possibly
+unbalanced (, {, or [.
+} 
+V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L
+
+V =
+
+   14.1296
+
+Problem3
+{Error using <a href="matlab:helpUtils.errorDocCallback('Problem3', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m', 8)" style="font-weight:bold">Problem3</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',8,0)">line 8</a>)
+Not enough input arguments.
+} 
+Problem3 (2,5,2)
+Problem3 (2,5,2)
+Problem3 (2,5,2)
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+Problem3 (2,5,2)
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+
+V =
+
+    20
+
+Problem3 (2,5,2)
+{Error using <a href="matlab:helpUtils.errorDocCallback('Problem3')" style="font-weight:bold">Problem3</a>
+Too many input arguments.
+} 
+Problem3 (2,5)
+{Undefined function or variable 'h'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Problem3', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m', 8)" style="font-weight:bold">Problem3</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',8,0)">line 8</a>)
+     V = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L
+} 
+Problem3 (2,5)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+Problem3 (2,5)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+Problem3 (2,5,10)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+
+V =
+
+   32.6465
+
+
+V =
+
+   33.8326
+
+
+V =
+
+   35.0021
+
+
+V =
+
+   36.1472
+
+
+V =
+
+   37.2556
+
+
+V =
+
+   38.3065
+
+
+V =
+
+   39.2591
+
+
+V =
+
+   40.0205
+
+
+V =
+
+   40.3157
+
+
+V =
+
+   37.0163
+
+
+V =
+
+  40.1953 + 6.7233i
+
+
+V =
+
+  44.0921 +10.0817i
+
+
+V =
+
+  48.9611 +13.0615i
+
+
+V =
+
+  55.1941 +15.9198i
+
+
+V =
+
+  63.4272 +18.7500i
+
+
+V =
+
+  74.7667 +21.5972i
+
+
+V =
+
+  91.3214 +24.4868i
+
+
+V =
+
+   1.1767e+02 + 2.7434e+01i
+
+
+V =
+
+   1.6597e+02 + 3.0450e+01i
+
+
+V =
+
+   2.8274e+02 + 3.3541e+01i
+
+
+V =
+
+   9.6178e+02 + 3.6712e+01i
+
+
+V =
+
+  -6.8494e+02 + 3.9968e+01i
+
+
+V =
+
+  -2.5278e+02 + 4.3311e+01i
+
+
+V =
+
+  -1.5523e+02 + 4.6742e+01i
+
+
+V =
+
+  -1.1220e+02 + 5.0265e+01i
+
+
+V =
+
+ -88.0274 +53.8799i
+
+
+V =
+
+ -72.5715 +57.5882i
+
+
+V =
+
+ -61.8640 +61.3909i
+
+
+V =
+
+ -54.0276 +65.2886i
+
+
+V =
+
+ -48.0600 +69.2820i
+
+
+V =
+
+ -43.3771 +73.3717i
+
+
+V =
+
+ -39.6160 +77.5580i
+
+
+V =
+
+ -36.5392 +81.8413i
+
+
+V =
+
+ -33.9846 +86.2220i
+
+
+V =
+
+ -31.8383 +90.7004i
+
+
+V =
+
+ -30.0176 +95.2766i
+
+
+V =
+
+ -28.4611 +99.9510i
+
+
+V =
+
+  -2.7123e+01 + 1.0472e+02i
+
+
+V =
+
+  -2.5966e+01 + 1.0959e+02i
+
+
+V =
+
+  -2.4964e+01 + 1.1456e+02i
+
+
+V =
+
+  -2.4095e+01 + 1.1963e+02i
+
+
+V =
+
+  -2.3340e+01 + 1.2480e+02i
+
+
+V =
+
+  -2.2686e+01 + 1.3007e+02i
+
+
+V =
+
+  -2.2122e+01 + 1.3543e+02i
+
+
+V =
+
+  -2.1638e+01 + 1.4090e+02i
+
+
+V =
+
+  -2.1226e+01 + 1.4646e+02i
+
+
+V =
+
+  -2.0881e+01 + 1.5212e+02i
+
+
+V =
+
+  -2.0598e+01 + 1.5788e+02i
+
+
+V =
+
+  -2.0373e+01 + 1.6374e+02i
+
+
+V =
+
+  -2.0202e+01 + 1.6971e+02i
+
+
+V =
+
+  -2.0084e+01 + 1.7577e+02i
+
+
+V =
+
+  -2.0017e+01 + 1.8193e+02i
+
+
+V =
+
+  -2.0001e+01 + 1.8818e+02i
+
+
+V =
+
+  -2.0034e+01 + 1.9454e+02i
+
+
+V =
+
+  -2.0118e+01 + 2.0100e+02i
+
+
+V =
+
+  -2.0254e+01 + 2.0756e+02i
+
+
+V =
+
+  -2.0442e+01 + 2.1422e+02i
+
+
+V =
+
+  -2.0687e+01 + 2.2097e+02i
+
+
+V =
+
+  -2.0990e+01 + 2.2783e+02i
+
+
+V =
+
+  -2.1357e+01 + 2.3479e+02i
+
+
+V =
+
+  -2.1792e+01 + 2.4184e+02i
+
+
+V =
+
+  -2.2303e+01 + 2.4900e+02i
+
+
+V =
+
+  -2.2896e+01 + 2.5625e+02i
+
+
+V =
+
+  -2.3582e+01 + 2.6361e+02i
+
+
+V =
+
+  -2.4374e+01 + 2.7107e+02i
+
+
+V =
+
+  -2.5285e+01 + 2.7862e+02i
+
+
+V =
+
+  -2.6337e+01 + 2.8628e+02i
+
+
+V =
+
+  -2.7551e+01 + 2.9403e+02i
+
+
+V =
+
+  -2.8958e+01 + 3.0188e+02i
+
+
+V =
+
+  -3.0598e+01 + 3.0984e+02i
+
+Problem3 (2,5,3)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+Problem3 (2,5,4)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+
+V =
+
+   32.6465
+
+
+V =
+
+   33.8326
+
+
+V =
+
+   35.0021
+
+
+V =
+
+   36.1472
+
+
+V =
+
+   37.2556
+
+
+V =
+
+   38.3065
+
+
+V =
+
+   39.2591
+
+
+V =
+
+   40.0205
+
+
+V =
+
+   40.3157
+
+
+V =
+
+   37.0163
+
+Problem3 (2,5,5)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+
+V =
+
+   32.6465
+
+
+V =
+
+   33.8326
+
+
+V =
+
+   35.0021
+
+
+V =
+
+   36.1472
+
+
+V =
+
+   37.2556
+
+
+V =
+
+   38.3065
+
+
+V =
+
+   39.2591
+
+
+V =
+
+   40.0205
+
+
+V =
+
+   40.3157
+
+
+V =
+
+   37.0163
+
+
+V =
+
+  40.1953 + 6.7233i
+
+
+V =
+
+  44.0921 +10.0817i
+
+
+V =
+
+  48.9611 +13.0615i
+
+
+V =
+
+  55.1941 +15.9198i
+
+
+V =
+
+  63.4272 +18.7500i
+
+
+V =
+
+  74.7667 +21.5972i
+
+
+V =
+
+  91.3214 +24.4868i
+
+
+V =
+
+   1.1767e+02 + 2.7434e+01i
+
+
+V =
+
+   1.6597e+02 + 3.0450e+01i
+
+
+V =
+
+   2.8274e+02 + 3.3541e+01i
+
+Problem3 (2,5)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+
+V =
+
+   32.6465
+
+
+V =
+
+   33.8326
+
+
+V =
+
+   35.0021
+
+
+V =
+
+   36.1472
+
+
+V =
+
+   37.2556
+
+
+V =
+
+   38.3065
+
+
+V =
+
+   39.2591
+
+
+V =
+
+   40.0205
+
+
+V =
+
+   40.3157
+
+
+V =
+
+   37.0163
+
+Problem3 (2,5)
+
+V =
+
+   37.0163
+
+
+V =
+
+   28.4502
+
+
+V =
+
+   24.3285
+
+
+V =
+
+   21.3485
+
+
+V =
+
+   19.1065
+
+
+V =
+
+   17.4125
+
+
+V =
+
+   16.1512
+
+
+V =
+
+   15.2438
+
+
+V =
+
+   14.6326
+
+
+V =
+
+   14.2729
+
+
+V =
+
+   14.1296
+
+
+V =
+
+   14.1739
+
+
+V =
+
+   14.3820
+
+
+V =
+
+   14.7336
+
+
+V =
+
+   15.2114
+
+
+V =
+
+   15.8005
+
+
+V =
+
+   16.4876
+
+
+V =
+
+   17.2611
+
+
+V =
+
+   18.1104
+
+
+V =
+
+   19.0263
+
+
+V =
+
+    20
+
+
+V =
+
+   21.0238
+
+
+V =
+
+   22.0904
+
+
+V =
+
+   23.1932
+
+
+V =
+
+   24.3260
+
+
+V =
+
+   25.4829
+
+
+V =
+
+   26.6587
+
+
+V =
+
+   27.8481
+
+
+V =
+
+   29.0462
+
+
+V =
+
+   30.2484
+
+
+V =
+
+   31.4501
+
+
+V =
+
+   32.6465
+
+
+V =
+
+   33.8326
+
+
+V =
+
+   35.0021
+
+
+V =
+
+   36.1472
+
+
+V =
+
+   37.2556
+
+
+V =
+
+   38.3065
+
+
+V =
+
+   39.2591
+
+
+V =
+
+   40.0205
+
+
+V =
+
+   40.3157
+
+
+V =
+
+   37.0163
+
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',17,1)">File: Problem3.m Line: 17 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function
+ "Volume".)
+} 
+Problem3(2,5)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',17,1)">File: Problem3.m Line: 17 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function
+ "Volume".)
+} 
+Problem3(2,5)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',17,1)">File: Problem3.m Line: 17 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function
+ "Volume".)
+} 
+Problem3(2,5)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',17,1)">File: Problem3.m Line: 17 Column: 1</a>
+This statement is not inside any function.
+ (It follows the END that terminates the definition of the function
+ "Volume".)
+} 
+Problem3
+{Error using <a href="matlab:helpUtils.errorDocCallback('Problem3', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m', 7)" style="font-weight:bold">Problem3</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+Problem3(2,5)
+Problem3
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',12,10)">File: Problem3.m Line: 12 Column: 10</a>
+Unbalanced or unexpected parenthesis or bracket.
+} 
+Problem3
+{Error using <a href="matlab:helpUtils.errorDocCallback('Problem3', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m', 7)" style="font-weight:bold">Problem3</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Problem3.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+Problem3(2,5)
+Problem3(2,5)
+Problem3(2,5)
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 7)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+Volume (2,5)
+clear
+clc
+Volume (2,5)
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+parachutistNUM (.1, 0, 20, 0)
+
+ans =
+
+  Columns 1 through 7
+
+         0    0.9800    1.9396    2.8792    3.7992    4.7000    5.5821
+
+  Columns 8 through 14
+
+    6.4458    7.2915    8.1196    8.9305    9.7244   10.5018   11.2630
+
+  Columns 15 through 21
+
+   12.0084   12.7382   13.4528   14.1526   14.8377   15.5086   16.1655
+
+  Columns 22 through 28
+
+   16.8087   17.4386   18.0552   18.6591   19.2504   19.8293   20.3962
+
+  Columns 29 through 35
+
+   20.9513   21.4948   22.0270   22.5481   23.0583   23.5580   24.0472
+
+  Columns 36 through 42
+
+   24.5262   24.9952   25.4545   25.9042   26.3445   26.7757   27.1978
+
+  Columns 43 through 49
+
+   27.6112   28.0160   28.4123   28.8004   29.1804   29.5525   29.9168
+
+  Columns 50 through 56
+
+   30.2735   30.6228   30.9649   31.2998   31.6277   31.9488   32.2632
+
+  Columns 57 through 63
+
+   32.5710   32.8725   33.1676   33.4566   33.7396   34.0167   34.2880
+
+  Columns 64 through 70
+
+   34.5537   34.8138   35.0685   35.3179   35.5621   35.8013   36.0354
+
+  Columns 71 through 77
+
+   36.2647   36.4892   36.7090   36.9242   37.1349   37.3413   37.5433
+
+  Columns 78 through 84
+
+   37.7412   37.9349   38.1246   38.3103   38.4922   38.6703   38.8447
+
+  Columns 85 through 91
+
+   39.0154   39.1826   39.3463   39.5066   39.6635   39.8172   39.9677
+
+  Columns 92 through 98
+
+   40.1150   40.2593   40.4005   40.5389   40.6743   40.8069   40.9368
+
+  Columns 99 through 105
+
+   41.0639   41.1884   41.3103   41.4297   41.5466   41.6610   41.7731
+
+  Columns 106 through 112
+
+   41.8828   41.9903   42.0955   42.1985   42.2993   42.3981   42.4948
+
+  Columns 113 through 119
+
+   42.5895   42.6822   42.7730   42.8619   42.9489   43.0342   43.1176
+
+  Columns 120 through 126
+
+   43.1993   43.2794   43.3577   43.4344   43.5095   43.5831   43.6551
+
+  Columns 127 through 133
+
+   43.7256   43.7947   43.8623   43.9285   43.9933   44.0568   44.1189
+
+  Columns 134 through 140
+
+   44.1798   44.2394   44.2977   44.3549   44.4108   44.4656   44.5192
+
+  Columns 141 through 147
+
+   44.5717   44.6231   44.6735   44.7228   44.7711   44.8183   44.8646
+
+  Columns 148 through 154
+
+   44.9099   44.9543   44.9978   45.0403   45.0820   45.1228   45.1627
+
+  Columns 155 through 161
+
+   45.2018   45.2401   45.2776   45.3143   45.3503   45.3855   45.4200
+
+  Columns 162 through 168
+
+   45.4537   45.4868   45.5191   45.5508   45.5818   45.6122   45.6419
+
+  Columns 169 through 175
+
+   45.6711   45.6996   45.7275   45.7549   45.7816   45.8079   45.8335
+
+  Columns 176 through 182
+
+   45.8587   45.8833   45.9074   45.9310   45.9541   45.9767   45.9988
+
+  Columns 183 through 189
+
+   46.0205   46.0418   46.0626   46.0829   46.1029   46.1224   46.1415
+
+  Columns 190 through 196
+
+   46.1602   46.1786   46.1965   46.2141   46.2313   46.2481   46.2646
+
+  Columns 197 through 201
+
+   46.2808   46.2966   46.3121   46.3273   46.3421
+
+parachutistNUM (.1, 0, 20, 0);
+parachutistNUM (.1, 0, 20, 0)
+
+ans =
+
+  Columns 1 through 6
+
+         0    0.9800    1.9396    2.8792    3.7992    4.7000
+
+  Columns 7 through 12
+
+    5.5821    6.4458    7.2915    8.1196    8.9305    9.7244
+
+  Columns 13 through 18
+
+   10.5018   11.2630   12.0084   12.7382   13.4528   14.1526
+
+  Columns 19 through 24
+
+   14.8377   15.5086   16.1655   16.8087   17.4386   18.0552
+
+  Columns 25 through 30
+
+   18.6591   19.2504   19.8293   20.3962   20.9513   21.4948
+
+  Columns 31 through 36
+
+   22.0270   22.5481   23.0583   23.5580   24.0472   24.5262
+
+  Columns 37 through 42
+
+   24.9952   25.4545   25.9042   26.3445   26.7757   27.1978
+
+  Columns 43 through 48
+
+   27.6112   28.0160   28.4123   28.8004   29.1804   29.5525
+
+  Columns 49 through 54
+
+   29.9168   30.2735   30.6228   30.9649   31.2998   31.6277
+
+  Columns 55 through 60
+
+   31.9488   32.2632   32.5710   32.8725   33.1676   33.4566
+
+  Columns 61 through 66
+
+   33.7396   34.0167   34.2880   34.5537   34.8138   35.0685
+
+  Columns 67 through 72
+
+   35.3179   35.5621   35.8013   36.0354   36.2647   36.4892
+
+  Columns 73 through 78
+
+   36.7090   36.9242   37.1349   37.3413   37.5433   37.7412
+
+  Columns 79 through 84
+
+   37.9349   38.1246   38.3103   38.4922   38.6703   38.8447
+
+  Columns 85 through 90
+
+   39.0154   39.1826   39.3463   39.5066   39.6635   39.8172
+
+  Columns 91 through 96
+
+   39.9677   40.1150   40.2593   40.4005   40.5389   40.6743
+
+  Columns 97 through 102
+
+   40.8069   40.9368   41.0639   41.1884   41.3103   41.4297
+
+  Columns 103 through 108
+
+   41.5466   41.6610   41.7731   41.8828   41.9903   42.0955
+
+  Columns 109 through 114
+
+   42.1985   42.2993   42.3981   42.4948   42.5895   42.6822
+
+  Columns 115 through 120
+
+   42.7730   42.8619   42.9489   43.0342   43.1176   43.1993
+
+  Columns 121 through 126
+
+   43.2794   43.3577   43.4344   43.5095   43.5831   43.6551
+
+  Columns 127 through 132
+
+   43.7256   43.7947   43.8623   43.9285   43.9933   44.0568
+
+  Columns 133 through 138
+
+   44.1189   44.1798   44.2394   44.2977   44.3549   44.4108
+
+  Columns 139 through 144
+
+   44.4656   44.5192   44.5717   44.6231   44.6735   44.7228
+
+  Columns 145 through 150
+
+   44.7711   44.8183   44.8646   44.9099   44.9543   44.9978
+
+  Columns 151 through 156
+
+   45.0403   45.0820   45.1228   45.1627   45.2018   45.2401
+
+  Columns 157 through 162
+
+   45.2776   45.3143   45.3503   45.3855   45.4200   45.4537
+
+  Columns 163 through 168
+
+   45.4868   45.5191   45.5508   45.5818   45.6122   45.6419
+
+  Columns 169 through 174
+
+   45.6711   45.6996   45.7275   45.7549   45.7816   45.8079
+
+  Columns 175 through 180
+
+   45.8335   45.8587   45.8833   45.9074   45.9310   45.9541
+
+  Columns 181 through 186
+
+   45.9767   45.9988   46.0205   46.0418   46.0626   46.0829
+
+  Columns 187 through 192
+
+   46.1029   46.1224   46.1415   46.1602   46.1786   46.1965
+
+  Columns 193 through 198
+
+   46.2141   46.2313   46.2481   46.2646   46.2808   46.2966
+
+  Columns 199 through 201
+
+   46.3121   46.3273   46.3421
+
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 7)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+Volume (2,5)
+
+ans =
+
+   37.0163
+
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 7)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',7,0)">line 7</a>)
+Not enough input arguments.
+} 
+Volume (2,5)
+
+h =
+
+    0.1000
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+Volume (2,5)
+
+h =
+
+    0.1000
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+Volume (2,5)
+
+h =
+
+    0.1000
+
+
+h =
+
+    0.2000
+
+
+h =
+
+    0.3000
+
+
+h =
+
+    0.4000
+
+
+h =
+
+    0.5000
+
+
+h =
+
+    0.6000
+
+
+h =
+
+    0.7000
+
+
+h =
+
+    0.8000
+
+
+h =
+
+    0.9000
+
+
+h =
+
+     1
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    1.2000
+
+
+h =
+
+    1.3000
+
+
+h =
+
+    1.4000
+
+
+h =
+
+    1.5000
+
+
+h =
+
+    1.6000
+
+
+h =
+
+    1.7000
+
+
+h =
+
+    1.8000
+
+
+h =
+
+    1.9000
+
+
+h =
+
+     2
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    2.2000
+
+
+h =
+
+    2.3000
+
+
+h =
+
+    2.4000
+
+
+h =
+
+    2.5000
+
+
+h =
+
+    2.6000
+
+
+h =
+
+    2.7000
+
+
+h =
+
+    2.8000
+
+
+h =
+
+    2.9000
+
+
+h =
+
+    3.0000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    3.2000
+
+
+h =
+
+    3.3000
+
+
+h =
+
+    3.4000
+
+
+h =
+
+    3.5000
+
+
+h =
+
+    3.6000
+
+
+h =
+
+    3.7000
+
+
+h =
+
+    3.8000
+
+
+h =
+
+    3.9000
+
+
+h =
+
+     4
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+clear
+clc
+parachutistNUM (.1,0,20,0)
+
+ans =
+
+  Columns 1 through 7
+
+         0    0.9800    1.9396    2.8792    3.7992    4.7000    5.5821
+
+  Columns 8 through 14
+
+    6.4458    7.2915    8.1196    8.9305    9.7244   10.5018   11.2630
+
+  Columns 15 through 21
+
+   12.0084   12.7382   13.4528   14.1526   14.8377   15.5086   16.1655
+
+  Columns 22 through 28
+
+   16.8087   17.4386   18.0552   18.6591   19.2504   19.8293   20.3962
+
+  Columns 29 through 35
+
+   20.9513   21.4948   22.0270   22.5481   23.0583   23.5580   24.0472
+
+  Columns 36 through 42
+
+   24.5262   24.9952   25.4545   25.9042   26.3445   26.7757   27.1978
+
+  Columns 43 through 49
+
+   27.6112   28.0160   28.4123   28.8004   29.1804   29.5525   29.9168
+
+  Columns 50 through 56
+
+   30.2735   30.6228   30.9649   31.2998   31.6277   31.9488   32.2632
+
+  Columns 57 through 63
+
+   32.5710   32.8725   33.1676   33.4566   33.7396   34.0167   34.2880
+
+  Columns 64 through 70
+
+   34.5537   34.8138   35.0685   35.3179   35.5621   35.8013   36.0354
+
+  Columns 71 through 77
+
+   36.2647   36.4892   36.7090   36.9242   37.1349   37.3413   37.5433
+
+  Columns 78 through 84
+
+   37.7412   37.9349   38.1246   38.3103   38.4922   38.6703   38.8447
+
+  Columns 85 through 91
+
+   39.0154   39.1826   39.3463   39.5066   39.6635   39.8172   39.9677
+
+  Columns 92 through 98
+
+   40.1150   40.2593   40.4005   40.5389   40.6743   40.8069   40.9368
+
+  Columns 99 through 105
+
+   41.0639   41.1884   41.3103   41.4297   41.5466   41.6610   41.7731
+
+  Columns 106 through 112
+
+   41.8828   41.9903   42.0955   42.1985   42.2993   42.3981   42.4948
+
+  Columns 113 through 119
+
+   42.5895   42.6822   42.7730   42.8619   42.9489   43.0342   43.1176
+
+  Columns 120 through 126
+
+   43.1993   43.2794   43.3577   43.4344   43.5095   43.5831   43.6551
+
+  Columns 127 through 133
+
+   43.7256   43.7947   43.8623   43.9285   43.9933   44.0568   44.1189
+
+  Columns 134 through 140
+
+   44.1798   44.2394   44.2977   44.3549   44.4108   44.4656   44.5192
+
+  Columns 141 through 147
+
+   44.5717   44.6231   44.6735   44.7228   44.7711   44.8183   44.8646
+
+  Columns 148 through 154
+
+   44.9099   44.9543   44.9978   45.0403   45.0820   45.1228   45.1627
+
+  Columns 155 through 161
+
+   45.2018   45.2401   45.2776   45.3143   45.3503   45.3855   45.4200
+
+  Columns 162 through 168
+
+   45.4537   45.4868   45.5191   45.5508   45.5818   45.6122   45.6419
+
+  Columns 169 through 175
+
+   45.6711   45.6996   45.7275   45.7549   45.7816   45.8079   45.8335
+
+  Columns 176 through 182
+
+   45.8587   45.8833   45.9074   45.9310   45.9541   45.9767   45.9988
+
+  Columns 183 through 189
+
+   46.0205   46.0418   46.0626   46.0829   46.1029   46.1224   46.1415
+
+  Columns 190 through 196
+
+   46.1602   46.1786   46.1965   46.2141   46.2313   46.2481   46.2646
+
+  Columns 197 through 201
+
+   46.2808   46.2966   46.3121   46.3273   46.3421
+
+Volume
+
+V =
+
+     0
+
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 9)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',9,0)">line 9</a>)
+Not enough input arguments.
+} 
+Volume(2,5)
+
+V =
+
+     0
+
+
+h =
+
+    0.1000
+
+
+h =
+
+    0.2000
+
+
+h =
+
+    0.3000
+
+
+h =
+
+    0.4000
+
+
+h =
+
+    0.5000
+
+
+h =
+
+    0.6000
+
+
+h =
+
+    0.7000
+
+
+h =
+
+    0.8000
+
+
+h =
+
+    0.9000
+
+
+h =
+
+     1
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    1.2000
+
+
+h =
+
+    1.3000
+
+
+h =
+
+    1.4000
+
+
+h =
+
+    1.5000
+
+
+h =
+
+    1.6000
+
+
+h =
+
+    1.7000
+
+
+h =
+
+    1.8000
+
+
+h =
+
+    1.9000
+
+
+h =
+
+     2
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    2.2000
+
+
+h =
+
+    2.3000
+
+
+h =
+
+    2.4000
+
+
+h =
+
+    2.5000
+
+
+h =
+
+    2.6000
+
+
+h =
+
+    2.7000
+
+
+h =
+
+    2.8000
+
+
+h =
+
+    2.9000
+
+
+h =
+
+    3.0000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    3.2000
+
+
+h =
+
+    3.3000
+
+
+h =
+
+    3.4000
+
+
+h =
+
+    3.5000
+
+
+h =
+
+    3.6000
+
+
+h =
+
+    3.7000
+
+
+h =
+
+    3.8000
+
+
+h =
+
+    3.9000
+
+
+h =
+
+     4
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+
+Volume(2,5)
+
+V =
+
+     0
+
+{Attempted to access V(0); index must be a positive integer or
+logical.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 11)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',11,0)">line 11</a>)
+     V(h) = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L;
+} 
+Volume(2,5)
+
+V =
+
+     0
+
+{Attempted to access V(0.1); index must be a positive integer or
+logical.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 11)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',11,0)">line 11</a>)
+     V(h+.1) = ((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L;
+} 
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 8)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',8,0)">line 8</a>)
+Not enough input arguments.
+} 
+Volume(2,5)
+
+h =
+
+    0.1000
+
+
+h =
+
+    0.2000
+
+
+h =
+
+    0.3000
+
+
+h =
+
+    0.4000
+
+
+h =
+
+    0.5000
+
+
+h =
+
+    0.6000
+
+
+h =
+
+    0.7000
+
+
+h =
+
+    0.8000
+
+
+h =
+
+    0.9000
+
+
+h =
+
+     1
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    1.2000
+
+
+h =
+
+    1.3000
+
+
+h =
+
+    1.4000
+
+
+h =
+
+    1.5000
+
+
+h =
+
+    1.6000
+
+
+h =
+
+    1.7000
+
+
+h =
+
+    1.8000
+
+
+h =
+
+    1.9000
+
+
+h =
+
+     2
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    2.2000
+
+
+h =
+
+    2.3000
+
+
+h =
+
+    2.4000
+
+
+h =
+
+    2.5000
+
+
+h =
+
+    2.6000
+
+
+h =
+
+    2.7000
+
+
+h =
+
+    2.8000
+
+
+h =
+
+    2.9000
+
+
+h =
+
+    3.0000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    3.2000
+
+
+h =
+
+    3.3000
+
+
+h =
+
+    3.4000
+
+
+h =
+
+    3.5000
+
+
+h =
+
+    3.6000
+
+
+h =
+
+    3.7000
+
+
+h =
+
+    3.8000
+
+
+h =
+
+    3.9000
+
+
+h =
+
+     4
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+Volume(2,5)
+{Attempted to access V(0); index must be a positive integer or
+logical.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 10)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',10,0)">line 10</a>)
+     V(h) = [((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L];
+} 
+Volume(2,5)
+{Attempted to access V(0); index must be a positive integer or
+logical.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 10)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',10,0)">line 10</a>)
+     V(h) = [((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L];
+} 
+Volume(2,5)
+
+ans =
+
+   37.0163
+
+parachutistNUM
+{Error using <a href="matlab:helpUtils.errorDocCallback('parachutistNUM', 'E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m', 17)" style="font-weight:bold">parachutistNUM</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\MatLab Program\parachutistNUM.m',17,0)">line 17</a>)
+Not enough input arguments.
+} 
+parachutistNUM (.1,0,20,0)
+
+ans =
+
+  Columns 1 through 6
+
+         0    0.9800    1.9396    2.8792    3.7992    4.7000
+
+  Columns 7 through 12
+
+    5.5821    6.4458    7.2915    8.1196    8.9305    9.7244
+
+  Columns 13 through 18
+
+   10.5018   11.2630   12.0084   12.7382   13.4528   14.1526
+
+  Columns 19 through 24
+
+   14.8377   15.5086   16.1655   16.8087   17.4386   18.0552
+
+  Columns 25 through 30
+
+   18.6591   19.2504   19.8293   20.3962   20.9513   21.4948
+
+  Columns 31 through 36
+
+   22.0270   22.5481   23.0583   23.5580   24.0472   24.5262
+
+  Columns 37 through 42
+
+   24.9952   25.4545   25.9042   26.3445   26.7757   27.1978
+
+  Columns 43 through 48
+
+   27.6112   28.0160   28.4123   28.8004   29.1804   29.5525
+
+  Columns 49 through 54
+
+   29.9168   30.2735   30.6228   30.9649   31.2998   31.6277
+
+  Columns 55 through 60
+
+   31.9488   32.2632   32.5710   32.8725   33.1676   33.4566
+
+  Columns 61 through 66
+
+   33.7396   34.0167   34.2880   34.5537   34.8138   35.0685
+
+  Columns 67 through 72
+
+   35.3179   35.5621   35.8013   36.0354   36.2647   36.4892
+
+  Columns 73 through 78
+
+   36.7090   36.9242   37.1349   37.3413   37.5433   37.7412
+
+  Columns 79 through 84
+
+   37.9349   38.1246   38.3103   38.4922   38.6703   38.8447
+
+  Columns 85 through 90
+
+   39.0154   39.1826   39.3463   39.5066   39.6635   39.8172
+
+  Columns 91 through 96
+
+   39.9677   40.1150   40.2593   40.4005   40.5389   40.6743
+
+  Columns 97 through 102
+
+   40.8069   40.9368   41.0639   41.1884   41.3103   41.4297
+
+  Columns 103 through 108
+
+   41.5466   41.6610   41.7731   41.8828   41.9903   42.0955
+
+  Columns 109 through 114
+
+   42.1985   42.2993   42.3981   42.4948   42.5895   42.6822
+
+  Columns 115 through 120
+
+   42.7730   42.8619   42.9489   43.0342   43.1176   43.1993
+
+  Columns 121 through 126
+
+   43.2794   43.3577   43.4344   43.5095   43.5831   43.6551
+
+  Columns 127 through 132
+
+   43.7256   43.7947   43.8623   43.9285   43.9933   44.0568
+
+  Columns 133 through 138
+
+   44.1189   44.1798   44.2394   44.2977   44.3549   44.4108
+
+  Columns 139 through 144
+
+   44.4656   44.5192   44.5717   44.6231   44.6735   44.7228
+
+  Columns 145 through 150
+
+   44.7711   44.8183   44.8646   44.9099   44.9543   44.9978
+
+  Columns 151 through 156
+
+   45.0403   45.0820   45.1228   45.1627   45.2018   45.2401
+
+  Columns 157 through 162
+
+   45.2776   45.3143   45.3503   45.3855   45.4200   45.4537
+
+  Columns 163 through 168
+
+   45.4868   45.5191   45.5508   45.5818   45.6122   45.6419
+
+  Columns 169 through 174
+
+   45.6711   45.6996   45.7275   45.7549   45.7816   45.8079
+
+  Columns 175 through 180
+
+   45.8335   45.8587   45.8833   45.9074   45.9310   45.9541
+
+  Columns 181 through 186
+
+   45.9767   45.9988   46.0205   46.0418   46.0626   46.0829
+
+  Columns 187 through 192
+
+   46.1029   46.1224   46.1415   46.1602   46.1786   46.1965
+
+  Columns 193 through 198
+
+   46.2141   46.2313   46.2481   46.2646   46.2808   46.2966
+
+  Columns 199 through 201
+
+   46.3121   46.3273   46.3421
+
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 8)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',8,0)">line 8</a>)
+Not enough input arguments.
+} 
+Volume(2,5)
+
+ans =
+
+   37.0163
+
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 9)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',9,0)">line 9</a>)
+Not enough input arguments.
+} 
+Volume(2,5)
+{Subscript indices must either be real positive integers or logicals.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 10)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',10,0)">line 10</a>)
+    V(i) = [((r^2)*(sec((r-h)/r))-((r-h)*((2*r*h-h^2)^(1/2))))*L];
+} 
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 9)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',9,0)">line 9</a>)
+Not enough input arguments.
+} 
+Volume
+{Error using <a href="matlab:helpUtils.errorDocCallback('Volume', 'E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m', 9)" style="font-weight:bold">Volume</a> (<a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',9,0)">line 9</a>)
+Not enough input arguments.
+} 
+Volume(2,5)
+
+h =
+
+    0.1000
+
+
+h =
+
+    1.1000
+
+
+h =
+
+    2.1000
+
+
+h =
+
+    3.1000
+
+
+h =
+
+    4.1000
+
+
+ans =
+
+   37.0163
+
+Volume(2,5)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',9,7)">File: Volume.m Line: 9 Column: 7</a>
+Unexpected MATLAB operator.
+} 
+Volume(2,5)
+{Error: <a href="matlab: opentoline('E:\Computational Problem Solving in Environmental and Water Resources\Homework\Volume.m',10,7)">File: Volume.m Line: 10 Column: 7</a>
+Unexpected MATLAB operator.
+} 

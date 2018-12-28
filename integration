@@ -1,0 +1,16 @@
+fu = @(x) 8 + 4*cos (x)
+
+fu = 
+
+    @(x)8+4*cos(x)
+
+trapezoidalintegration (fu, 0, pi/2, 4)
+
+step =
+
+    0.3927
+
+Integral =
+
+   16.5148
+
